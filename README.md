@@ -1,4 +1,4 @@
-# 🎓 Smart Attendance Management System
+# 🎓 Smart Attendance System
 
 A professional, full-stack attendance management solution featuring a **Node.js/Express API**, **MySQL database**, and a **Flutter mobile app**. 
 
