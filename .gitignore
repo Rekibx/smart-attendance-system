@@ -1,0 +1,16 @@
+node_modules/
+.env
+.DS_Store
+*.log
+
+# Flutter/Dart
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+build/
+pubspec.lock
+
+# Android/Gradle
+.gradle/
+local.properties
